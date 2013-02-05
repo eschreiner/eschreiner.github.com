@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.sdc" module="play2-scala-auth_2.9.1" revision="0.1" status="release" publication="20130205162153">
+	<info organisation="com.sdc" module="play2-scala-auth_2.9.1" revision="0.1" status="release" publication="20130205163518">
 		<description>
 		play2-scala-auth
 		</description>
