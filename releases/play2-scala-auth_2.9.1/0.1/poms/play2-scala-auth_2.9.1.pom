@@ -2,11 +2,11 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.sdc</groupId>
-    <artifactId>play2-auth_2.9.1</artifactId>
+    <artifactId>play2-scala-auth_2.9.1</artifactId>
     <packaging>jar</packaging>
-    <description>play2-auth</description>
+    <description>play2-scala-auth</description>
     <version>0.1</version>
-    <name>play2-auth</name>
+    <name>play2-scala-auth</name>
     <organization>
         <name>com.sdc</name>
     </organization>
