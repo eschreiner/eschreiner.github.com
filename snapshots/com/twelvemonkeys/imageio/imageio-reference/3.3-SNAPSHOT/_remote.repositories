@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 08:00:32 CEST 2016
+imageio-reference-3.3-SNAPSHOT-test-sources.jar>=
+imageio-reference-3.3-SNAPSHOT.jar>=
+imageio-reference-3.3-SNAPSHOT.pom>=
+imageio-reference-3.3-SNAPSHOT-tests.jar>=

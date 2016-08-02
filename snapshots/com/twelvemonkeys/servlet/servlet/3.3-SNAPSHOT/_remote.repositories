@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 07:59:17 CEST 2016
+servlet-3.3-SNAPSHOT.jar>=
+servlet-3.3-SNAPSHOT-tests.jar>=
+servlet-3.3-SNAPSHOT.pom>=
+servlet-3.3-SNAPSHOT-test-sources.jar>=
+servlet-3.3-SNAPSHOT-sources.jar>=

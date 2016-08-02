@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 08:00:09 CEST 2016
+imageio-sgi-3.3-SNAPSHOT.pom>=
+imageio-sgi-3.3-SNAPSHOT-test-sources.jar>=
+imageio-sgi-3.3-SNAPSHOT-sources.jar>=
+imageio-sgi-3.3-SNAPSHOT.jar>=
+imageio-sgi-3.3-SNAPSHOT-tests.jar>=

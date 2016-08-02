@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.twelvemonkeys.imageio</groupId>
+  <artifactId>imageio-hdr</artifactId>
+  <versioning>
+    <versions>
+      <version>3.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160802055930</lastUpdated>
+  </versioning>
+</metadata>

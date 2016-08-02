@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 07:59:47 CEST 2016
+imageio-pcx-3.3-SNAPSHOT.pom>=
+imageio-pcx-3.3-SNAPSHOT.jar>=
+imageio-pcx-3.3-SNAPSHOT-test-sources.jar>=
+imageio-pcx-3.3-SNAPSHOT-tests.jar>=
+imageio-pcx-3.3-SNAPSHOT-sources.jar>=

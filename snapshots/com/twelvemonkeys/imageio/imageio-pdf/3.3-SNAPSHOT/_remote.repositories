@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 07:59:47 CEST 2016
+imageio-pdf-3.3-SNAPSHOT.pom>=
+imageio-pdf-3.3-SNAPSHOT-tests.jar>=
+imageio-pdf-3.3-SNAPSHOT.jar>=

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.twelvemonkeys.bom</groupId>
+  <artifactId>bom</artifactId>
+  <versioning>
+    <versions>
+      <version>3.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160802060033</lastUpdated>
+  </versioning>
+</metadata>

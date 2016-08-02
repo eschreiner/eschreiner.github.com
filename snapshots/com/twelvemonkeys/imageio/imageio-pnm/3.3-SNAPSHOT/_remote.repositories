@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 07:59:55 CEST 2016
+imageio-pnm-3.3-SNAPSHOT.jar>=
+imageio-pnm-3.3-SNAPSHOT.pom>=
+imageio-pnm-3.3-SNAPSHOT-test-sources.jar>=
+imageio-pnm-3.3-SNAPSHOT-sources.jar>=
+imageio-pnm-3.3-SNAPSHOT-tests.jar>=

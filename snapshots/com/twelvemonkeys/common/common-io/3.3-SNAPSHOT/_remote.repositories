@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 02 07:59:06 CEST 2016
+common-io-3.3-SNAPSHOT-tests.jar>=
+common-io-3.3-SNAPSHOT.jar>=
+common-io-3.3-SNAPSHOT-test-sources.jar>=
+common-io-3.3-SNAPSHOT-sources.jar>=
+common-io-3.3-SNAPSHOT.pom>=
